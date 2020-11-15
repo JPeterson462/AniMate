@@ -1,0 +1,47 @@
+{
+	"spritesheet": "PlayerV4_Red.png",
+	"timePerFrame": 0.25,
+	"pingPong": false,
+	"frames": [
+		{
+			"x": 64,
+			"y": 0,
+			"width": 32,
+			"height": 32,
+			"dx": 0,
+			"dy": 0
+		},
+		{
+			"x": 64,
+			"y": 32,
+			"width": 32,
+			"height": 32,
+			"dx": 0,
+			"dy": 0
+		},
+		{
+			"x": 64,
+			"y": 64,
+			"width": 32,
+			"height": 32,
+			"dx": 0,
+			"dy": 0
+		},
+		{
+			"x": 64,
+			"y": 96,
+			"width": 32,
+			"height": 32,
+			"dx": 0,
+			"dy": 0
+		},
+		{
+			"x": 64,
+			"y": 128,
+			"width": 32,
+			"height": 32,
+			"dx": 0,
+			"dy": 0
+		}
+	]
+}
